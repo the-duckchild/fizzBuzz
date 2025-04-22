@@ -1,6 +1,7 @@
-<<<<<<< HEAD
-=======
+
 function fizzBuzz() {
-  console.log("Hello World!");
-}
+  for (i =0; i < 100; i++) {
+    console.log(i+1);
+}}
+
 fizzBuzz();
